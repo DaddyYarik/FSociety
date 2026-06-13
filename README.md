@@ -2,6 +2,8 @@
 
 > *"Hello, friend."* — Mr. Robot
 
+![FSociety Preview](preview.gif)
+
 A theatrical hacker prank simulator inspired by the TV show **Mr. Robot** and the fictional hacker collective **FSociety**.  
 **Nothing is actually hacked, encrypted, or damaged.** Pure visual and audio terror.
 
